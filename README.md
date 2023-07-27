@@ -5,7 +5,6 @@ This project is a Simple Todo App developed using React, a popular JavaScript li
 ## Features
 
 - Todo List: Users can add, edit, and delete todos.
-- Task Completion: Users can mark todos as completed or pending.
 - User-friendly Design: The app offers an intuitive and easy-to-use interface for a seamless todo management experience.
 
 ## Getting Started
