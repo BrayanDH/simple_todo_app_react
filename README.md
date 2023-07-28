@@ -1,4 +1,4 @@
-# Simple Todo App (React)
+# Todo App (React)
 
 This project is a Simple Todo App developed using React, a popular JavaScript library for building user interfaces. The primary objective of this project is to provide users with a straightforward tool to manage their daily tasks and todos efficiently.
 
@@ -58,5 +58,3 @@ This project is licensed under the MIT License.
 Special thanks to the creators and maintainers of the libraries and frameworks used in this project.
 
 ---
-
-*Note: The images and placeholders used in this README are for illustration purposes only. Replace them with actual content and screenshots relevant to your Simple Todo App.*
