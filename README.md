@@ -9,7 +9,7 @@ This project is a Todo App developed using React, a popular JavaScript library f
 
 ## Getting Started
 
-To run the Todo App locally using Docker, follow these steps:
+### To run the Todo App locally using Docker, follow these steps:
 
 Install Docker on your machine: [Docker Installation Guide ](https://docs.docker.com/engine/install/)
 
@@ -31,7 +31,7 @@ Install Docker on your machine: [Docker Installation Guide ](https://docs.docker
    docker build -t todo_app .
    ```
 
-   This command will use the Dockerfile in the project directory to build an image named todo-app`.
+   This command will use the Dockerfile in the project directory to build an image named `todo-app`.
 
 4. Run the Docker container:
 
@@ -45,7 +45,7 @@ Install Docker on your machine: [Docker Installation Guide ](https://docs.docker
 
 Now you should have the Todo App running locally using Docker. The app will be accessible at `http://localhost:3200`.
 
-To run the Todo App locally without docker, follow these steps:
+### To run the Todo App locally without docker, follow these steps:
 
 Install Docker on your machine: [Node.js Installation Guide ](https://nodejs.org/en/download)
 
