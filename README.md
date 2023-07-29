@@ -16,13 +16,13 @@ Install Docker on your machine: [Docker Installation Guide ](https://docs.docker
 1. Clone this repository:
 
    ```
-   git clone https://github.com/BrayanDH/todo_app_react.git
+   git clone https://github.com/BrayanDH/todoAppReact.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd todo_app_react
+   cd todoAppReact
    ```
 
 3. Build the Docker image:
@@ -52,13 +52,13 @@ Install Docker on your machine: [Node.js Installation Guide ](https://nodejs.org
 1. Clone this repository:
 
    ```
-   git clone https://github.com/BrayanDH _todo_app_react.git
+   git clone https://github.com/BrayanDH/todoAppReact.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd todo_app_react
+   cd todoAppReact
    ```
 
 3. Install dependencies:
